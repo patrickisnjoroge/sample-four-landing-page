@@ -1,0 +1,24 @@
+body {
+  background: black;
+  color: cyan;
+}
+
+img {
+  float: left;
+}
+
+p {
+  float: right;
+}
+
+ul {
+  text-align: center;
+  display: inline-block;
+  text-align: left;
+}
+
+button {
+  cursor: pointer;
+  background: lime;
+  color: blue;
+}
